@@ -3,6 +3,6 @@
     "description": "Cloudstream Arabic Plugin Repository",
     "manifestVersion": 1,
     "pluginLists": [
-      "https://raw.githubusercontent.com/ImZaw/cloudstream-extensions-arabic/builds/plugins.json"
+      "https://raw.githubusercontent.com/apdelhaktarek/Kareka/main/plugins.json"
     ]
   }
