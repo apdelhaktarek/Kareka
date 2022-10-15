@@ -18,7 +18,7 @@
         "content_type": "application/vnd.android.package-archive",
         "state": "uploaded",
         "size": 20105799,
-        "browser_download_url": "https://github.com/recloudstream/cloudstream/releases/download/pre-release/app-prerelease.apk"
+        "browser_download_url": "https://raw.githubusercontent.com/apdelhaktarek/Kareka/builds/app-prerelease.apk"
       }
     ],
     "body": "## Commits\n- e67d248: Fix searching in repos & search provider selection bottom sheet (Blatzar)"
