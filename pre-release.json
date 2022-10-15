@@ -3,7 +3,7 @@
   "node_id": "REF_kwDOIOCmcbVyZWZzL3RhZ3MvcHJlLXJlbGVhc2U",
   "url": "https://api.github.com/repos/apdelhaktarek/Kareka/git/refs/tags/pre-release",
   "object": {
-    "sha": "1.0.0",
+    "sha": "1.1.0",
     "type": "commit",
     "url": "https://api.github.com/repos/apdelhaktarek/Kareka/git/commits/4b46b124638cf3754027bac3b09fe1bafff5e538"
   }
