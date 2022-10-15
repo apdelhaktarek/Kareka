@@ -1,0 +1,26 @@
+[
+  {
+    "url": "https://api.github.com/repos/recloudstream/cloudstream/releases/79966336",
+    "id": 79966336,
+    "node_id": "RE_kwDOHxC4c84ExDCA",
+    "tag_name": "pre-release",
+    "target_commitish": "master",
+    "name": "Pre-release Build",
+    "draft": false,
+    "prerelease": true,
+    "assets": [
+      {
+        "url": "https://api.github.com/repos/recloudstream/cloudstream/releases/assets/81059446",
+        "id": 81059446,
+        "node_id": "RA_kwDOHxC4c84E1N52",
+        "name": "app-prerelease.apk",
+        "label": "",
+        "content_type": "application/vnd.android.package-archive",
+        "state": "uploaded",
+        "size": 20105799,
+        "browser_download_url": "https://github.com/recloudstream/cloudstream/releases/download/pre-release/app-prerelease.apk"
+      }
+    ],
+    "body": "## Commits\n- e67d248: Fix searching in repos & search provider selection bottom sheet (Blatzar)"
+  }
+]
